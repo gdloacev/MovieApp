@@ -4,7 +4,6 @@ import {
     View,
     Image,
     Dimensions,
-    Touchable,
     TouchableWithoutFeedback
 } from 'react-native';
 import {Title, Text} from 'react-native-paper';
